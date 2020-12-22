@@ -1,0 +1,4 @@
+CLASS net/minecraft/client/d net/minecraft/client/MinecraftClient
+	METHOD <init> (Ljava/awt/Canvas;Lnet/minecraft/client/MinecraftApplet;IIZ)V
+		ARG 1 canvas
+		ARG 2 minecraftApplet
