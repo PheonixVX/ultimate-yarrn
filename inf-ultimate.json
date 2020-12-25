@@ -9,10 +9,10 @@
 	"assets":"pre-1.6",
 	"downloads":{
 		"client":{
-			"url":"https://archive.org/download/20180501AoMCollection/Omniarchive.zip/Omniarchive/Java Edition/Clients/Infdev/inf-20100227/inf-20100227.jar"
+			"url":"https://www.sithgames.tk/launcher/minecraft.jar"
 		}
 	},
-	"id":"inf-20100227",
+	"id":"inf-ultimate",
 	"libraries":[
 		{
 			"downloads":{
