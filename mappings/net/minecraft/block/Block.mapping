@@ -28,9 +28,7 @@ CLASS net/minecraft/class_39 net/minecraft/block/Block
 	FIELD field_137 WHEAT Lnet/minecraft/class_39;
 	FIELD field_138 FARMLAND Lnet/minecraft/class_39;
 	FIELD field_141 SIGN Lnet/minecraft/class_39;
-	FIELD field_142 DOOR Lnet/minecraft/class_39;
 	FIELD field_143 LADDER Lnet/minecraft/class_39;
-	FIELD field_144 RAIL Lnet/minecraft/class_39;
 	FIELD field_145 textureIndex I
 	FIELD field_146 id I
 	FIELD field_147 minX D
@@ -56,7 +54,6 @@ CLASS net/minecraft/class_39 net/minecraft/block/Block
 	FIELD field_172 IRON_ORE Lnet/minecraft/class_39;
 	FIELD field_173 COAL_ORE Lnet/minecraft/class_39;
 	FIELD field_174 LOG Lnet/minecraft/class_39;
-	FIELD field_175 LEAVES Lnet/minecraft/class_68;
 	FIELD field_176 SPONGE Lnet/minecraft/class_39;
 	FIELD field_177 GLASS Lnet/minecraft/class_39;
 	METHOD <init> (IILnet/minecraft/class_92;)V

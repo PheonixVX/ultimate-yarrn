@@ -8,24 +8,10 @@ CLASS net/minecraft/class_275 net/minecraft/client/options/Options
 	FIELD field_1080 viewBobbing Z
 	FIELD field_1081 anaglyph Z
 	FIELD field_1082 limitFramerate Z
-	FIELD field_1083 fancyGraphics Z
-	FIELD field_1084 forward Lnet/minecraft/class_263;
-	FIELD field_1085 left Lnet/minecraft/class_263;
-	FIELD field_1086 back Lnet/minecraft/class_263;
-	FIELD field_1087 right Lnet/minecraft/class_263;
-	FIELD field_1088 jump Lnet/minecraft/class_263;
-	FIELD field_1089 inventory Lnet/minecraft/class_263;
-	FIELD field_1090 drop Lnet/minecraft/class_263;
-	FIELD field_1091 toggleFog Lnet/minecraft/class_263;
-	FIELD field_1092 saveLocation Lnet/minecraft/class_263;
-	FIELD field_1093 loadLocation Lnet/minecraft/class_263;
-	FIELD field_1094 allKeybindings [Lnet/minecraft/class_263;
 	FIELD field_1095 optionsButtonCount I
-	FIELD field_1096 difficultyLevel I
 	FIELD field_1097 thirdPerson Z
 	FIELD field_1098 RENDER_DISTANCE_NAMES [Ljava/lang/String;
 	FIELD field_1099 DIFFICULTY_NAMES [Ljava/lang/String;
-	FIELD field_1100 chat Lnet/minecraft/class_263;
 	METHOD <init> (Lnet/minecraft/class_243;Ljava/io/File;)V
 		ARG 1 instance
 		ARG 2 mcDir

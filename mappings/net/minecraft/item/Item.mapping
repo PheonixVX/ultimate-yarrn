@@ -44,11 +44,9 @@ CLASS net/minecraft/class_123 net/minecraft/item/Item
 	FIELD field_381 PAINTING Lnet/minecraft/class_123;
 	FIELD field_382 GOLDEN_APPLE Lnet/minecraft/class_123;
 	FIELD field_383 SIGN Lnet/minecraft/class_123;
-	FIELD field_384 DOOR Lnet/minecraft/class_123;
 	FIELD field_385 BUCKET Lnet/minecraft/class_123;
 	FIELD field_386 WATER_BUCKET Lnet/minecraft/class_123;
 	FIELD field_387 LAVA_BUCKET Lnet/minecraft/class_123;
-	FIELD field_388 MINECART Lnet/minecraft/class_123;
 	FIELD field_389 id I
 	FIELD field_390 maxCount I
 	FIELD field_391 maxDamage I

@@ -1,5 +1,4 @@
 CLASS net/minecraft/class_5 net/minecraft/nbt/CompoundTag
-	FIELD field_4 data Ljava/util/Map;
 	METHOD method_11 putInt (Ljava/lang/String;I)V
 	METHOD method_12 putLong (Ljava/lang/String;J)V
 	METHOD method_16 putShort (Ljava/lang/String;S)V
