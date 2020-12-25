@@ -464,7 +464,7 @@ task mergeTiny(dependsOn: ["buildYarnTiny", "invertIntermediary"], type: FileOut
 task tinyJar(type: Jar, dependsOn: mergeTiny) {
 	group = buildMappingGroup
 	outputs.upToDateWhen { false }
-	archiveFileName = "yarn-${yarnVersion}.jar"
+	//archiveFileName = "yarn-${yarnVersion}.jar"
 	destinationDirectory.set(file("build/libs"))
 	classifier = ""
 	from(mergeTiny.output) {
